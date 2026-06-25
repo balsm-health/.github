@@ -52,7 +52,17 @@ Explore our repositories for EHR, practice management, patient engagement, and m
   <strong>WhatsApp Channel:</strong> <a href="https://whatsapp.com/channel/0029Vb7A39V3mFY3fXXLVi46">Join Channel</a>
 </p>
 
+<h2 align="center">Sponsors</h2>
+
 <p align="center">
+  <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Sponsored by AWS" src="https://img.shields.io/badge/Sponsored%20by-AWS-232F3E?logo=amazonwebservices&logoColor=FF9900" />
+  </a>
+  &nbsp;
+  <a href="https://kiro.dev" target="_blank" rel="noopener noreferrer">
+    <img alt="Sponsored by Kiro" src="https://img.shields.io/badge/Sponsored%20by-Kiro-8B5CF6?logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://sentry.io" target="_blank" rel="noopener noreferrer">
     <img alt="Sponsored by Sentry" src="https://img.shields.io/badge/Sponsored%20by-Sentry-362D59?logo=sentry&logoColor=white" />
   </a>
