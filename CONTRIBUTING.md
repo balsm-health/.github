@@ -13,7 +13,7 @@ Thank you for your interest in contributing to **Balsm** (بَلسَم) — the 
 | [balsm_app_flutter](https://github.com/balsm-health/balsm_app_flutter) | Mobile & desktop app (Flutter) |
 | [Balsm-AI](https://github.com/balsm-health/Balsm-AI) | AI agents, skills, and tooling |
 | [website](https://github.com/balsm-health/website) | Public website |
-| `file_type_plus`, `file_sized`, `time_of_day`, `paging_plus`, `tawakkalna_sdk_flutter` | Standalone Flutter/Dart packages |
+| `file_type_plus`, `file_sized`, `time_of_day`, `paging_plus`, `tawakkalna_sdk_flutter`, `media_source` | Standalone Flutter/Dart packages (MIT licensed) |
 
 ## Ways to Contribute
 
@@ -89,7 +89,12 @@ Balsm is healthcare software — security issues are treated with the highest pr
 
 ## Licensing
 
-Balsm is licensed under the **GNU AGPL-3.0 with Additional Terms** (see the [LICENSE](https://github.com/balsm-health/.github/blob/main/LICENSE) file). By submitting a contribution, you agree that it will be licensed under the same terms as the repository you contribute to.
+Licensing varies by repository — always check the `LICENSE` file of the repository you are contributing to:
+
+- **Platform repositories** (Balsm-Core, Balsm-API-DotNet, balsm_app_flutter, Balsm-AI, website) are licensed under the **GNU AGPL-3.0 with Additional Terms** (see the [LICENSE](https://github.com/balsm-health/.github/blob/main/LICENSE) file).
+- **Standalone Flutter/Dart packages** (`file_type_plus`, `file_sized`, `time_of_day`, `paging_plus`, `tawakkalna_sdk_flutter`, `media_source`) are licensed under the **MIT License** and are *not* covered by the platform license or its Additional Terms.
+
+By submitting a contribution, you agree that it will be licensed under the same terms as the repository you contribute to.
 
 ## Questions?
 
