@@ -1,6 +1,6 @@
 # Contributing to Balsm
 
-Thank you for your interest in contributing to **Balsm** (بَلسَم) — the open-source unified healthcare ecosystem for the MENA region. Whether you fix a bug, improve documentation, translate a screen, or propose a feature, your contribution helps build technology in the service of healing.
+Thank you for your interest in contributing to **Balsm** (بَلسَم) — the community-owned, source-available healthcare ecosystem for the MENA region. Whether you fix a bug, improve documentation, translate a screen, or propose a feature, your contribution helps build technology in the service of healing.
 
 > This document lives in the organization-wide [`.github`](https://github.com/balsm-health/.github) repository and applies to **every repository** in the `balsm-health` organization. Individual repositories may add their own `CONTRIBUTING.md` with repo-specific instructions, which takes precedence over this one.
 
@@ -12,8 +12,10 @@ Thank you for your interest in contributing to **Balsm** (بَلسَم) — the 
 | [Balsm-API-DotNet](https://github.com/balsm-health/Balsm-API-DotNet) | Backend API (.NET) |
 | [balsm_app_flutter](https://github.com/balsm-health/balsm_app_flutter) | Mobile & desktop app (Flutter) |
 | [Balsm-AI](https://github.com/balsm-health/Balsm-AI) | AI agents, skills, and tooling |
-| [website](https://github.com/balsm-health/website) | Public website |
-| `file_type_plus`, `file_sized`, `time_of_day`, `paging_plus`, `tawakkalna_sdk_flutter`, `media_source` | Standalone Flutter/Dart packages (MIT licensed) |
+| [website](https://github.com/balsm-health/website) | Website source (repo currently private — not yet open to external contribution) |
+| [file_type_plus](https://github.com/balsm-health/file_type_plus), [file_sized](https://github.com/balsm-health/file_sized), [time_of_day](https://github.com/balsm-health/time_of_day), [paging_plus](https://github.com/balsm-health/paging_plus), [tawakkalna_sdk_flutter](https://github.com/balsm-health/tawakkalna_sdk_flutter), [media_source](https://github.com/balsm-health/media_source) | Standalone Flutter/Dart packages (MIT licensed) |
+
+This map is a snapshot — see the [full repository list](https://github.com/orgs/balsm-health/repositories) for the current set.
 
 ## Ways to Contribute
 
@@ -21,7 +23,7 @@ Thank you for your interest in contributing to **Balsm** (بَلسَم) — the 
 - **Suggest features** — open an issue describing the problem you want solved before proposing a solution.
 - **Improve documentation** — corrections and clarifications are always welcome, in English or Arabic.
 - **Translate & localize** — Balsm serves the Arab world; Arabic translations and RTL fixes are first-class contributions.
-- **Write code** — pick an open issue (look for `good first issue` / `help wanted` labels) or propose your own change.
+- **Write code** — check the issue tracker for open issues (`good first issue` / `help wanted` labels); if it's empty, open an issue proposing your change first.
 
 ## Before You Start
 
@@ -42,7 +44,7 @@ Thank you for your interest in contributing to **Balsm** (بَلسَم) — the 
 
 We use a `[Tag] summary` format:
 
-```
+```text
 [Fix] boundary_lint: allow infrastructure/ DI exports in module barrels
 [Feature] core: typed i18n via compile-time bundles
 [Docs] clarify appointment booking flow
@@ -61,7 +63,7 @@ Common tags:
 | `[UI]` | Visual/design changes |
 | `[Test]` | Adding or fixing tests |
 
-Keep the summary imperative and under ~72 characters; add a body when the *why* is not obvious.
+The tag list is not exhaustive — use an existing tag where one fits before inventing a new one. Keep the summary imperative and under ~72 characters; add a body when the *why* is not obvious.
 
 ### Pull Request Guidelines
 
@@ -85,7 +87,7 @@ When in doubt, match the style of the surrounding code.
 
 Balsm is healthcare software — security issues are treated with the highest priority.
 
-**Do not open public issues for security vulnerabilities.** Instead, report them privately via [GitHub Security Advisories](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-security-advisories) ("Report a vulnerability" on the repository's Security tab). We will acknowledge your report and work with you on a fix and coordinated disclosure.
+**Do not open public issues for security vulnerabilities.** Instead, report them privately via [GitHub private vulnerability reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability) ("Report a vulnerability" on the repository's Security tab). We will acknowledge your report and work with you on a fix and coordinated disclosure.
 
 ## Licensing
 
@@ -94,10 +96,10 @@ Licensing varies by repository — always check the `LICENSE` file of the reposi
 - **Platform repositories** (Balsm-Core, Balsm-API-DotNet, balsm_app_flutter, Balsm-AI, website) are licensed under the **GNU AGPL-3.0 with Additional Terms** (see the [LICENSE](https://github.com/balsm-health/.github/blob/main/LICENSE) file).
 - **Standalone Flutter/Dart packages** (`file_type_plus`, `file_sized`, `time_of_day`, `paging_plus`, `tawakkalna_sdk_flutter`, `media_source`) are licensed under the **MIT License** and are *not* covered by the platform license or its Additional Terms.
 
-By submitting a contribution, you agree that it will be licensed under the same terms as the repository you contribute to.
+Balsm is dual-licensed (community edition under the platform license, commercial edition under the [Balsm Commercial License](https://github.com/balsm-health/Balsm-Core/blob/main/legal/baslm-commercial-license-bcl-v1.4.md)). To make that possible, contributions to the platform repositories are accepted under the [Balsm Contributor License Agreement](https://github.com/balsm-health/Balsm-Core/blob/main/legal/cla.md), which grants Balsm the right to distribute your contribution under both editions. Contributions to the MIT-licensed packages are accepted under the MIT License — no CLA required.
 
 ## Questions?
 
-Open a discussion or issue in the relevant repository — we're happy to help you get started.
+Open an issue in the relevant repository — we're happy to help you get started.
 
 **Your care. Your data. Your system.** Open. Arab. Owned.
