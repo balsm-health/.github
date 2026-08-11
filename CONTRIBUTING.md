@@ -1,6 +1,6 @@
 # Contributing to Balsm
 
-Thank you for your interest in contributing to **Balsm** (بَلسَم) — the community-owned, source-available healthcare ecosystem for the MENA region. Whether you fix a bug, improve documentation, translate a screen, or propose a feature, your contribution helps build technology in the service of healing.
+Thank you for your interest in contributing to **Balsm** (بلسم) — the community-owned, source-available healthcare ecosystem for the MENA region. Whether you fix a bug, improve documentation, translate a screen, or propose a feature, your contribution helps build technology in the service of healing.
 
 > This document lives in the organization-wide [`.github`](https://github.com/balsm-health/.github) repository and applies to **every repository** in the `balsm-health` organization. Individual repositories may add their own `CONTRIBUTING.md` with repo-specific instructions, which takes precedence over this one.
 
