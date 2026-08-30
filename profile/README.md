@@ -1,10 +1,7 @@
 
 <p align="center">
-
-
-<div align="center">
-  <img src="/balsm-readme-banner.png" alt="Balsm Banner" style="width:100%;max-width:900px;border-radius:12px;box-shadow:0 2px 8px #0002;"/>
-</div>
+  <img src="/balsm-readme-banner.png" alt="Balsm.health — Open-Source Healthcare Ecosystem for Egypt & MENA" width="900">
+</p>
 
 # Welcome to Balsm Health
 <p align="center" dir="rtl" lang="ar" style="font-size:1.2em;">
