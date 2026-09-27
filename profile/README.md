@@ -48,18 +48,37 @@ Explore our repositories for EHR, practice management, patient engagement, and m
   <strong>WhatsApp Channel:</strong> <a href="https://whatsapp.com/channel/0029Vb7A39V3mFY3fXXLVi46">Join Channel</a>
 </p>
 
-<h2 align="center">Sponsors</h2>
+<h2 align="center">Sponsors · الرعاة</h2>
 
 <p align="center">
+  Balsm is sponsored in service, not just cash — hosting, dev tools, and monitoring from our technical partners.<br>
+  <span dir="rtl" lang="ar">بلسم مدعوم بخدمات شركائه التقنيين — استضافة، أدوات تطوير، ومراقبة أداء.</span>
+</p>
+
+<p align="center">
+  <a href="https://mosalam.com/" target="_blank" rel="noopener noreferrer">
+    <img alt="Sponsored by Mosalam — hosting and technical solutions" src="https://img.shields.io/badge/Sponsored%20by-Mosalam-1C4584?style=for-the-badge" />
+  </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer">
-    <img alt="Sponsored by AWS" src="https://img.shields.io/badge/Sponsored%20by-AWS-232F3E?logo=amazonwebservices&logoColor=FF9900" />
+    <img alt="Sponsored by AWS — cloud hosting and infrastructure" src="https://img.shields.io/badge/Sponsored%20by-AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
   </a>
-  &nbsp;
-  <a href="https://kiro.dev" target="_blank" rel="noopener noreferrer">
-    <img alt="Sponsored by Kiro" src="https://img.shields.io/badge/Sponsored%20by-Kiro-8B5CF6?logoColor=white" />
-  </a>
-  &nbsp;
   <a href="https://sentry.io" target="_blank" rel="noopener noreferrer">
-    <img alt="Sponsored by Sentry" src="https://img.shields.io/badge/Sponsored%20by-Sentry-362D59?logo=sentry&logoColor=white" />
+    <img alt="Sponsored by Sentry — error and performance monitoring" src="https://img.shields.io/badge/Sponsored%20by-Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
   </a>
+  <br>
+  <a href="https://kiro.dev" target="_blank" rel="noopener noreferrer">
+    <img alt="Sponsored by Kiro — AI-powered development environment" src="https://img.shields.io/badge/Sponsored%20by-Kiro-993FF5?style=for-the-badge" />
+  </a>
+  <a href="https://cursor.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Sponsored by Cursor — AI-powered, agentic development environment" src="https://img.shields.io/badge/Sponsored%20by-Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  </a>
+  <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Sponsored by GitHub — code hosting and collaborative development" src="https://img.shields.io/badge/Sponsored%20by-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Represent a tech company?</strong> Sponsor Balsm with your service instead of a cash donation —
+  <a href="https://balsm.health/sponsor"><strong>Offer sponsorship</strong></a> ·
+  <a href="https://balsm.health/ar/sponsor" dir="rtl" lang="ar">اعرض رعايتك</a>
 </p>
