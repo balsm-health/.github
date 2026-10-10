@@ -62,4 +62,8 @@ Explore our repositories for EHR, practice management, patient engagement, and m
   <a href="https://sentry.io" target="_blank" rel="noopener noreferrer">
     <img alt="Sponsored by Sentry" src="https://img.shields.io/badge/Sponsored%20by-Sentry-362D59?logo=sentry&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://claude.ai" target="_blank" rel="noopener noreferrer">
+    <img alt="Sponsored by Claude" src="https://img.shields.io/badge/Sponsored%20by-Claude-D97757?logo=claude&logoColor=white" />
+  </a>
 </p>
