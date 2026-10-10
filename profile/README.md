@@ -38,6 +38,7 @@ Explore our repositories for EHR, practice management, patient engagement, and m
   <a href="https://tiktok.com/@balsm.health">TikTok</a> |
   <a href="https://patreon.com/balsm_health">Patreon</a> |
   <a href="https://github.com/balsm-health">GitHub</a> |
+  <a href="https://discord.gg/cNd7QBU26a">Discord</a> |
   <a href="https://qabilah.com/profile/balsm-health">Qabilah</a> |
   <a href="https://threads.com/@balsm.health">Threads</a>
 </p>
