@@ -45,7 +45,7 @@ Explore our repositories for EHR, practice management, patient engagement, and m
 
 <p align="center">
   <strong>Email:</strong> <a href="mailto:contact@balsm.health">contact@balsm.health</a> &nbsp;|&nbsp;
-  <strong>WhatsApp:</strong> <a href="https://wa.me/201553564045">+20 155 356 4045</a> &nbsp;|&nbsp;
+  <strong>WhatsApp:</strong> @balsm.health &nbsp;|&nbsp;
   <strong>WhatsApp Channel:</strong> <a href="https://whatsapp.com/channel/0029Vb7A39V3mFY3fXXLVi46">Join Channel</a>
 </p>
 
