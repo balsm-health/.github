@@ -38,28 +38,38 @@ Explore our repositories for EHR, practice management, patient engagement, and m
   <a href="https://tiktok.com/@balsm.health">TikTok</a> |
   <a href="https://patreon.com/balsm_health">Patreon</a> |
   <a href="https://github.com/balsm-health">GitHub</a> |
+  <a href="https://discord.gg/cNd7QBU26a">Discord</a> |
   <a href="https://qabilah.com/profile/balsm-health">Qabilah</a> |
   <a href="https://threads.com/@balsm.health">Threads</a>
 </p>
 
 <p align="center">
   <strong>Email:</strong> <a href="mailto:contact@balsm.health">contact@balsm.health</a> &nbsp;|&nbsp;
-  <strong>WhatsApp:</strong> <a href="https://wa.me/201553564045">+20 155 356 4045</a> &nbsp;|&nbsp;
+  <strong>WhatsApp:</strong> @balsm.health &nbsp;|&nbsp;
   <strong>WhatsApp Channel:</strong> <a href="https://whatsapp.com/channel/0029Vb7A39V3mFY3fXXLVi46">Join Channel</a>
 </p>
 
-<h2 align="center">Sponsors</h2>
+<h2 align="center">Sponsors · الرعاة</h2>
 
 <p align="center">
-  <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer">
-    <img alt="Sponsored by AWS" src="https://img.shields.io/badge/Sponsored%20by-AWS-232F3E?logo=amazonwebservices&logoColor=FF9900" />
-  </a>
-  &nbsp;
-  <a href="https://kiro.dev" target="_blank" rel="noopener noreferrer">
-    <img alt="Sponsored by Kiro" src="https://img.shields.io/badge/Sponsored%20by-Kiro-8B5CF6?logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://sentry.io" target="_blank" rel="noopener noreferrer">
-    <img alt="Sponsored by Sentry" src="https://img.shields.io/badge/Sponsored%20by-Sentry-362D59?logo=sentry&logoColor=white" />
-  </a>
+  Balsm is sponsored in service, not just cash — hosting, dev tools, analytics, and monitoring from our technical partners.<br>
+  <span dir="rtl" lang="ar">بلسم مدعوم بخدمات شركائه التقنيين — استضافة، أدوات تطوير، تحليلات، ومراقبة أداء.</span>
+</p>
+
+<p align="center">
+  <a href="https://mosalam.com/" target="_blank" rel="noopener noreferrer"><img src="/profile/sponsors/mosalam.svg" alt="Sponsored by Mosalam — hosting and technical solutions" height="56" /></a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer"><img src="/profile/sponsors/aws.svg" alt="Sponsored by AWS — cloud hosting and infrastructure" height="56" /></a>
+  <a href="https://sentry.io" target="_blank" rel="noopener noreferrer"><img src="/profile/sponsors/sentry.svg" alt="Sponsored by Sentry — error and performance monitoring" height="56" /></a>
+  <a href="https://posthog.com" target="_blank" rel="noopener noreferrer"><img src="/profile/sponsors/posthog.svg" alt="Sponsored by PostHog — product analytics" height="56" /></a>
+  <br>
+  <a href="https://kiro.dev" target="_blank" rel="noopener noreferrer"><img src="/profile/sponsors/kiro.svg" alt="Sponsored by Kiro — AI-powered development environment" height="56" /></a>
+  <a href="https://cursor.com" target="_blank" rel="noopener noreferrer"><img src="/profile/sponsors/cursor.svg" alt="Sponsored by Cursor — AI-powered, agentic development environment" height="56" /></a>
+  <a href="https://claude.ai" target="_blank" rel="noopener noreferrer"><img src="/profile/sponsors/claude.svg" alt="Sponsored by Claude — AI assistant for coding, research and writing" height="56" /></a>
+  <a href="https://github.com" target="_blank" rel="noopener noreferrer"><img src="/profile/sponsors/github.svg" alt="Sponsored by GitHub — code hosting and collaborative development" height="56" /></a>
+</p>
+
+<p align="center">
+  <strong>Represent a tech company?</strong> Sponsor Balsm with your service instead of a cash donation —
+  <a href="https://balsm.health/sponsor"><strong>Offer sponsorship</strong></a> ·
+  <a href="https://balsm.health/ar/sponsor" dir="rtl" lang="ar">اعرض رعايتك</a>
 </p>
