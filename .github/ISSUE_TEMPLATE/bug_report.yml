@@ -1,0 +1,157 @@
+name: 🐞 Bug report
+description: Something in Balsm isn't working as expected
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping make Balsm better.
+
+        > [!CAUTION]
+        > **Never paste real patient data (PHI) here** — no names, national IDs, phone numbers, prescriptions, lab results or screenshots of real records. Use synthetic data only. This issue is public.
+        >
+        > Found a **security vulnerability**? Don't open an issue — follow [SECURITY.md](https://github.com/balsm-health/.github/blob/main/SECURITY.md).
+
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product / component
+      options:
+        - Balsm (patient app)
+        - Balsm PRO
+        - Balsm Dawaa
+        - Balsm Hub
+        - Balsm Connect
+        - Backend API (.NET)
+        - Web (Next.js)
+        - Sync
+        - Auth / login
+        - FHIR / interoperability
+        - Docs
+        - Other / not sure
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A clear description of the bug.
+      placeholder: When I dispense a prescription offline, the stock count doesn't update after sync…
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Go to …
+        2. Tap …
+        3. Turn off network …
+        4. See error
+    validations:
+      required: true
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform(s)
+      multiple: true
+      options:
+        - Android
+        - iOS
+        - Web
+        - Windows
+        - macOS
+        - Linux
+        - Server / backend
+    validations:
+      required: true
+
+  - type: dropdown
+    id: deployment
+    attributes:
+      label: Deployment
+      options:
+        - Self-hosted
+        - Balsm Network (cloud)
+        - Local development
+        - Not sure
+    validations:
+      required: true
+
+  - type: dropdown
+    id: connectivity
+    attributes:
+      label: Connectivity when it happened
+      options:
+        - Online
+        - Offline
+        - Flaky / switching between online and offline
+        - Not sure
+    validations:
+      required: true
+
+  - type: dropdown
+    id: language
+    attributes:
+      label: App language
+      options:
+        - Arabic (RTL)
+        - English (LTR)
+        - Both / happens in either
+    validations:
+      required: false
+
+  - type: input
+    id: version
+    attributes:
+      label: Version / commit
+      description: App version (Settings → About) or the commit SHA you're running.
+      placeholder: e.g. 1.4.2 (build 87) or a1b2c3d
+    validations:
+      required: true
+
+  - type: input
+    id: device
+    attributes:
+      label: Device / OS / browser
+      placeholder: e.g. Samsung A14, Android 14 · Chrome 141 · macOS 26
+    validations:
+      required: false
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or error output
+      description: Paste relevant logs. **Redact any patient or personal data first.** This will be rendered as code.
+      render: shell
+    validations:
+      required: false
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots / recordings
+      description: Drag files here. Use test data only — blur anything that could identify a real person.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues and this hasn't been reported.
+          required: true
+        - label: This report contains **no real patient or personal data**.
+          required: true
