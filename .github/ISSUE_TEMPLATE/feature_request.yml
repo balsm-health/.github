@@ -1,0 +1,116 @@
+name: ✨ Feature request
+description: Suggest an idea or improvement for Balsm
+title: "[Feature]: "
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ideas from pharmacists, doctors, lab staff, patients and developers all shape Balsm.
+        Describe the **problem** first — the best solution often comes out of the discussion.
+
+        > [!CAUTION]
+        > Don't include real patient data. Use made-up examples.
+
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product / component
+      options:
+        - Balsm (patient app)
+        - Balsm PRO
+        - Balsm Dawaa
+        - Balsm Hub
+        - Balsm Connect
+        - Backend API (.NET)
+        - Web (Next.js)
+        - Sync
+        - Auth / login
+        - FHIR / interoperability
+        - Docs
+        - Other / not sure
+    validations:
+      required: true
+
+  - type: dropdown
+    id: role
+    attributes:
+      label: Who needs this?
+      multiple: true
+      options:
+        - Patients / caregivers
+        - Pharmacists
+        - Doctors / clinic staff
+        - Hospital staff
+        - Lab technicians
+        - Blood bank staff
+        - Administrators / IT
+        - Developers / integrators
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem are you trying to solve?
+      description: Describe the situation and why it's painful today.
+      placeholder: At the end of a shift, the pharmacist has no way to see which prescriptions were dispensed while offline…
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+      description: What would you like to happen?
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives / workarounds
+      description: How do you handle this today? Any other approaches you considered?
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: considerations
+    attributes:
+      label: Does this touch any of these?
+      description: Tick any that apply — it helps reviewers spot design constraints early.
+      options:
+        - label: Must work **offline**
+        - label: Involves **patient data (PHI)** or privacy
+        - label: Needs **Arabic / RTL**-specific behaviour
+        - label: Affects **FHIR R4** resources or external integrations
+        - label: Affects **sync** between devices / servers
+        - label: Needs a **regulatory** check (e.g. Egyptian or GCC health authority rules)
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: How important is this to you?
+      options:
+        - Nice to have
+        - Important — slows down my work
+        - Critical — blocks adoption or daily work
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Mockups, references, links to regulations, examples from other systems…
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: contribute
+    attributes:
+      label: Contribution
+      options:
+        - label: I'd like to help build this.
+        - label: I searched existing issues and discussions first.
+          required: true
